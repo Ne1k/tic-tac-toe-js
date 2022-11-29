@@ -17,3 +17,5 @@
 
 1. Перейти по ссылке https://GamesNe1k.github.io/tic-tac-toe-js/
 2. Приступить к игре
+
+
