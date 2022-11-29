@@ -15,7 +15,5 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке https://GamesNe1k.github.io/tic-tac-toe-js/
+1. Перейти по ссылке https://ne1k.github.io/tic-tac-toe-js/
 2. Приступить к игре
-
-
